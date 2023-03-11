@@ -1,0 +1,20 @@
+div {
+    padding: 10px;
+    margin: 10px;
+}
+
+#main-title {
+    background-color: #555555;
+    color: #FFFFFF;
+    font-size: 36px;
+    text-align: center;
+}
+
+#recipe-title {
+    font-size: 24px;
+}
+
+.section {
+    background-color: #CCCCCC;
+    color: #222222;
+}
